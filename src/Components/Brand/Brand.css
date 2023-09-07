@@ -1,0 +1,53 @@
+body {
+    background-color: #fbf5db;
+}
+
+.brand1 {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #1E1E1E;
+    height: 100%;
+    width: 100%;
+    padding-top: 4%;
+    text-align: center;
+    font-family: "Bahnschrift";
+    color: #fbf5db;
+    text-align: center;
+    overflow: hidden;
+    object-fit: cover;
+    height: 100%;
+}   
+
+
+
+.logo {
+    height: 12vw;
+    width: 12vw;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.brandAbout1 {
+    font-size: 2.5vw;
+    color: #fbfbfb;
+    text-shadow: 1px 0px 1px #2b2a2f;
+    margin: 0;
+}
+
+
+.brandName {
+    font-size: 9vw;
+    text-shadow: 3px 1px 3px #E95C48;
+    margin: 0;
+}
+
+.brandAbout2 {
+    margin-top: -1%;
+    font-size: 4vw;
+    color: #fbfbfb;
+    text-shadow: 1px 0px 1px #2b2a2f;
+    padding-bottom: 5%;
+}
+
